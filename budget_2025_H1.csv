@@ -1,0 +1,337 @@
+Department,Category,Month,BudgetAmount
+HR,Travel,2025-01,499107.0176
+HR,Travel,2025-02,534877.63
+HR,Travel,2025-03,787269.035
+HR,Travel,2025-04,383669.51
+HR,Travel,2025-05,800837.2576
+HR,Travel,2025-06,588895.8426
+HR,Office Supplies,2025-01,790095.355
+HR,Office Supplies,2025-02,728982.1876
+HR,Office Supplies,2025-03,616391.58
+HR,Office Supplies,2025-04,360574.4626
+HR,Office Supplies,2025-05,271826.6426
+HR,Office Supplies,2025-06,257380.34
+HR,Software,2025-01,820589.77
+HR,Software,2025-02,825528.97
+HR,Software,2025-03,645138.41
+HR,Software,2025-04,767819.22
+HR,Software,2025-05,794985.6776
+HR,Software,2025-06,480543.8576
+HR,Utilities,2025-01,571227.055
+HR,Utilities,2025-02,408923.7426
+HR,Utilities,2025-03,408720.515
+HR,Utilities,2025-04,115407.495
+HR,Utilities,2025-05,420551.4426
+HR,Utilities,2025-06,605515.9076
+HR,Salaries,2025-01,411414.78
+HR,Salaries,2025-02,759032.4176
+HR,Salaries,2025-03,342405.7526
+HR,Salaries,2025-04,188147.505
+HR,Salaries,2025-05,712070.5726
+HR,Salaries,2025-06,605869.1976
+HR,Consulting,2025-01,272374.585
+HR,Consulting,2025-02,499756.145
+HR,Consulting,2025-03,395879.4526
+HR,Consulting,2025-04,810315.205
+HR,Consulting,2025-05,554458.6426
+HR,Consulting,2025-06,207986.625
+HR,Training,2025-01,473283.405
+HR,Training,2025-02,751428.1076
+HR,Training,2025-03,603977.5526
+HR,Training,2025-04,735912.5026
+HR,Training,2025-05,278995.3426
+HR,Training,2025-06,771334.97
+HR,Marketing,2025-01,668892.875
+HR,Marketing,2025-02,648288.865
+HR,Marketing,2025-03,353193.1026
+HR,Marketing,2025-04,770799.89
+HR,Marketing,2025-05,578110.2076
+HR,Marketing,2025-06,743157.52
+Finance,Travel,2025-01,364329.455
+Finance,Travel,2025-02,198157.1025
+Finance,Travel,2025-03,342230.8226
+Finance,Travel,2025-04,437100.335
+Finance,Travel,2025-05,497407.4526
+Finance,Travel,2025-06,479966.76
+Finance,Office Supplies,2025-01,507167.5176
+Finance,Office Supplies,2025-02,735336.2626
+Finance,Office Supplies,2025-03,217025.5326
+Finance,Office Supplies,2025-04,329662.445
+Finance,Office Supplies,2025-05,771533.91
+Finance,Office Supplies,2025-06,518283.29
+Finance,Software,2025-01,535981.2326
+Finance,Software,2025-02,454694.52
+Finance,Software,2025-03,509421.0276
+Finance,Software,2025-04,238618.24
+Finance,Software,2025-05,507794.35
+Finance,Software,2025-06,855318.52
+Finance,Utilities,2025-01,522597.3726
+Finance,Utilities,2025-02,120017.415
+Finance,Utilities,2025-03,700399.14
+Finance,Utilities,2025-04,391730.01
+Finance,Utilities,2025-05,204349.9676
+Finance,Utilities,2025-06,751399.81
+Finance,Salaries,2025-01,238535.92
+Finance,Salaries,2025-02,796352.5326
+Finance,Salaries,2025-03,426706.5776
+Finance,Salaries,2025-04,658999.04
+Finance,Salaries,2025-05,507893.82
+Finance,Salaries,2025-06,283801.63
+Finance,Consulting,2025-01,603663.7076
+Finance,Consulting,2025-02,825018.7576
+Finance,Consulting,2025-03,679717.0976
+Finance,Consulting,2025-04,551900.72
+Finance,Consulting,2025-05,850266.9876
+Finance,Consulting,2025-06,290515.855
+Finance,Training,2025-01,133861.7525
+Finance,Training,2025-02,110547.185
+Finance,Training,2025-03,634223.2926
+Finance,Training,2025-04,726481.7176
+Finance,Training,2025-05,575888.425
+Finance,Training,2025-06,784204.33
+Finance,Marketing,2025-01,624412.635
+Finance,Marketing,2025-02,372034.0926
+Finance,Marketing,2025-03,225635.69
+Finance,Marketing,2025-04,799346.9226
+Finance,Marketing,2025-05,165700.7275
+Finance,Marketing,2025-06,504801.675
+IT,Travel,2025-01,328085.5026
+IT,Travel,2025-02,295214.955
+IT,Travel,2025-03,584172.7326
+IT,Travel,2025-04,264206.8976
+IT,Travel,2025-05,792955.1176
+IT,Travel,2025-06,399114.8
+IT,Office Supplies,2025-01,608514.585
+IT,Office Supplies,2025-02,647395.35
+IT,Office Supplies,2025-03,612810.66
+IT,Office Supplies,2025-04,782948.95
+IT,Office Supplies,2025-05,264125.435
+IT,Office Supplies,2025-06,152162.5175
+IT,Software,2025-01,128555.5425
+IT,Software,2025-02,763226.45
+IT,Software,2025-03,836883.985
+IT,Software,2025-04,319224.955
+IT,Software,2025-05,620969.7726
+IT,Software,2025-06,92628.865
+IT,Utilities,2025-01,231326.06
+IT,Utilities,2025-02,617697.5526
+IT,Utilities,2025-03,136598.035
+IT,Utilities,2025-04,447322.5926
+IT,Utilities,2025-05,597098.6876
+IT,Utilities,2025-06,676877.915
+IT,Salaries,2025-01,435982.155
+IT,Salaries,2025-02,572172.02
+IT,Salaries,2025-03,502167.435
+IT,Salaries,2025-04,126116.8125
+IT,Salaries,2025-05,659009.33
+IT,Salaries,2025-06,218770.545
+IT,Consulting,2025-01,110295.9375
+IT,Consulting,2025-02,433938.7326
+IT,Consulting,2025-03,753805.955
+IT,Consulting,2025-04,202152.195
+IT,Consulting,2025-05,95672.99
+IT,Consulting,2025-06,170626.2075
+IT,Training,2025-01,366403.7476
+IT,Training,2025-02,533497.9126
+IT,Training,2025-03,234707.1826
+IT,Training,2025-04,704666.06
+IT,Training,2025-05,667106.7026
+IT,Training,2025-06,622782.5276
+IT,Marketing,2025-01,461954.9726
+IT,Marketing,2025-02,367605.9626
+IT,Marketing,2025-03,375609.01
+IT,Marketing,2025-04,473994.2726
+IT,Marketing,2025-05,145417.4225
+IT,Marketing,2025-06,612319.3126
+Marketing,Travel,2025-01,357026.1276
+Marketing,Travel,2025-02,259207.6726
+Marketing,Travel,2025-03,300548.605
+Marketing,Travel,2025-04,224892.2376
+Marketing,Travel,2025-05,781534.9326
+Marketing,Travel,2025-06,216204.905
+Marketing,Office Supplies,2025-01,767148.655
+Marketing,Office Supplies,2025-02,527378.7926
+Marketing,Office Supplies,2025-03,755205.395
+Marketing,Office Supplies,2025-04,451609.235
+Marketing,Office Supplies,2025-05,801651.025
+Marketing,Office Supplies,2025-06,248968.265
+Marketing,Software,2025-01,513833.7226
+Marketing,Software,2025-02,182866.1625
+Marketing,Software,2025-03,430892.035
+Marketing,Software,2025-04,525572.8976
+Marketing,Software,2025-05,553180.11
+Marketing,Software,2025-06,367846.92
+Marketing,Utilities,2025-01,144661.965
+Marketing,Utilities,2025-02,591497.4976
+Marketing,Utilities,2025-03,462697.5676
+Marketing,Utilities,2025-04,191386.2825
+Marketing,Utilities,2025-05,808011.96
+Marketing,Utilities,2025-06,823287.465
+Marketing,Salaries,2025-01,746836.195
+Marketing,Salaries,2025-02,737004.9576
+Marketing,Salaries,2025-03,161899.43
+Marketing,Salaries,2025-04,852421.885
+Marketing,Salaries,2025-05,394744.1226
+Marketing,Salaries,2025-06,211638.7176
+Marketing,Consulting,2025-01,712489.89
+Marketing,Consulting,2025-02,259957.985
+Marketing,Consulting,2025-03,491825.985
+Marketing,Consulting,2025-04,184546.005
+Marketing,Consulting,2025-05,452057.7076
+Marketing,Consulting,2025-06,516495.4026
+Marketing,Training,2025-01,429892.19
+Marketing,Training,2025-02,139376.335
+Marketing,Training,2025-03,460001.5876
+Marketing,Training,2025-04,447657.0176
+Marketing,Training,2025-05,287655.235
+Marketing,Training,2025-06,796995.6576
+Marketing,Marketing,2025-01,408181.1476
+Marketing,Marketing,2025-02,752631.18
+Marketing,Marketing,2025-03,170382.6775
+Marketing,Marketing,2025-04,331843.925
+Marketing,Marketing,2025-05,221833.535
+Marketing,Marketing,2025-06,400941.275
+Sales,Travel,2025-01,171905.5975
+Sales,Travel,2025-02,426118.3326
+Sales,Travel,2025-03,358850.03
+Sales,Travel,2025-04,258093.78
+Sales,Travel,2025-05,581351.5576
+Sales,Travel,2025-06,819615.65
+Sales,Office Supplies,2025-01,245589.715
+Sales,Office Supplies,2025-02,635074.79
+Sales,Office Supplies,2025-03,658682.6226
+Sales,Office Supplies,2025-04,470174.11
+Sales,Office Supplies,2025-05,778525.965
+Sales,Office Supplies,2025-06,831561.4826
+Sales,Software,2025-01,365313.865
+Sales,Software,2025-02,588184.975
+Sales,Software,2025-03,596812.2826
+Sales,Software,2025-04,397255.74
+Sales,Software,2025-05,330233.54
+Sales,Software,2025-06,806367.275
+Sales,Utilities,2025-01,695417.9226
+Sales,Utilities,2025-02,174087.935
+Sales,Utilities,2025-03,178270.82
+Sales,Utilities,2025-04,797721.96
+Sales,Utilities,2025-05,148578.1675
+Sales,Utilities,2025-06,617038.9926
+Sales,Salaries,2025-01,260750.315
+Sales,Salaries,2025-02,112904.4525
+Sales,Salaries,2025-03,131775.455
+Sales,Salaries,2025-04,374015.775
+Sales,Salaries,2025-05,145629.225
+Sales,Salaries,2025-06,546206.0626
+Sales,Consulting,2025-01,585268.6176
+Sales,Consulting,2025-02,373974.615
+Sales,Consulting,2025-03,659065.925
+Sales,Consulting,2025-04,463940.085
+Sales,Consulting,2025-05,417779.145
+Sales,Consulting,2025-06,399842.8176
+Sales,Training,2025-01,418456.57
+Sales,Training,2025-02,832717.3926
+Sales,Training,2025-03,611625.595
+Sales,Training,2025-04,329013.3176
+Sales,Training,2025-05,652106.455
+Sales,Training,2025-06,340634.1576
+Sales,Marketing,2025-01,182770.1225
+Sales,Marketing,2025-02,452609.08
+Sales,Marketing,2025-03,665352.2576
+Sales,Marketing,2025-04,377209.105
+Sales,Marketing,2025-05,756535.3776
+Sales,Marketing,2025-06,384380.3776
+Operations,Travel,2025-01,355738.1626
+Operations,Travel,2025-02,856145.15
+Operations,Travel,2025-03,458097.9376
+Operations,Travel,2025-04,707179.3926
+Operations,Travel,2025-05,706999.3176
+Operations,Travel,2025-06,800675.19
+Operations,Office Supplies,2025-01,151268.145
+Operations,Office Supplies,2025-02,295064.035
+Operations,Office Supplies,2025-03,678259.3476
+Operations,Office Supplies,2025-04,519937.4076
+Operations,Office Supplies,2025-05,517632.4476
+Operations,Office Supplies,2025-06,214026.855
+Operations,Software,2025-01,302730.085
+Operations,Software,2025-02,488089.8576
+Operations,Software,2025-03,299664.5226
+Operations,Software,2025-04,248036.1626
+Operations,Software,2025-05,153475.35
+Operations,Software,2025-06,205931.1976
+Operations,Utilities,2025-01,679123.7076
+Operations,Utilities,2025-02,640467.6076
+Operations,Utilities,2025-03,121121.875
+Operations,Utilities,2025-04,242634.77
+Operations,Utilities,2025-05,518281.575
+Operations,Utilities,2025-06,334737.9876
+Operations,Salaries,2025-01,721093.1876
+Operations,Salaries,2025-02,691565.175
+Operations,Salaries,2025-03,773827.7226
+Operations,Salaries,2025-04,520192.085
+Operations,Salaries,2025-05,357465.1676
+Operations,Salaries,2025-06,553480.235
+Operations,Consulting,2025-01,154541.2225
+Operations,Consulting,2025-02,93147.6525
+Operations,Consulting,2025-03,98941.78
+Operations,Consulting,2025-04,400271.5676
+Operations,Consulting,2025-05,261769.025
+Operations,Consulting,2025-06,207175.43
+Operations,Training,2025-01,560627.4976
+Operations,Training,2025-02,853714.995
+Operations,Training,2025-03,222931.135
+Operations,Training,2025-04,507450.4926
+Operations,Training,2025-05,178149.9125
+Operations,Training,2025-06,806747.1476
+Operations,Marketing,2025-01,310912.35
+Operations,Marketing,2025-02,763608.895
+Operations,Marketing,2025-03,304214.4176
+Operations,Marketing,2025-04,707820.8026
+Operations,Marketing,2025-05,247339.8726
+Operations,Marketing,2025-06,311709.825
+Admin,Travel,2025-01,234293.01
+Admin,Travel,2025-02,289692.655
+Admin,Travel,2025-03,730057.4926
+Admin,Travel,2025-04,578923.1176
+Admin,Travel,2025-05,398987.89
+Admin,Travel,2025-06,835521.4176
+Admin,Office Supplies,2025-01,444506.5626
+Admin,Office Supplies,2025-02,834162.28
+Admin,Office Supplies,2025-03,237465.76
+Admin,Office Supplies,2025-04,783905.0626
+Admin,Office Supplies,2025-05,96417.3
+Admin,Office Supplies,2025-06,506587.8476
+Admin,Software,2025-01,412240.5526
+Admin,Software,2025-02,490986.4926
+Admin,Software,2025-03,512870.75
+Admin,Software,2025-04,385984.76
+Admin,Software,2025-05,856109.135
+Admin,Software,2025-06,839369.02
+Admin,Utilities,2025-01,827977.1326
+Admin,Utilities,2025-02,841359.2776
+Admin,Utilities,2025-03,697757.1826
+Admin,Utilities,2025-04,848694.3326
+Admin,Utilities,2025-05,774428.83
+Admin,Utilities,2025-06,406745.6926
+Admin,Salaries,2025-01,691401.3926
+Admin,Salaries,2025-02,789638.3076
+Admin,Salaries,2025-03,635703.3376
+Admin,Salaries,2025-04,412032.18
+Admin,Salaries,2025-05,136523.4325
+Admin,Salaries,2025-06,710633.4026
+Admin,Consulting,2025-01,821029.6676
+Admin,Consulting,2025-02,365481.0776
+Admin,Consulting,2025-03,202983.1126
+Admin,Consulting,2025-04,337728.9476
+Admin,Consulting,2025-05,535388.7
+Admin,Consulting,2025-06,330339.87
+Admin,Training,2025-01,556995.1276
+Admin,Training,2025-02,831918.2026
+Admin,Training,2025-03,603389.3076
+Admin,Training,2025-04,365631.9976
+Admin,Training,2025-05,807917.635
+Admin,Training,2025-06,522279.24
+Admin,Marketing,2025-01,184821.2625
+Admin,Marketing,2025-02,470838.6726
+Admin,Marketing,2025-03,590194.0976
+Admin,Marketing,2025-04,732672.8676
+Admin,Marketing,2025-05,808475.8676
+Admin,Marketing,2025-06,330716.3126
